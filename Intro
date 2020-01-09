@@ -1,0 +1,14 @@
+OOPs- Object Orientated Programming
+Problem with functional programming – Reusability, Extensibility, Simplicity, Maintainability	
+Reusability – Class and Object
+Extensibility – Inheritance, Aggregation and Composition
+Simplicity – Abstraction, Encapsulation and Polymorphism
+Maintainability – RES all 3 combined 
+
+Abstraction – Show only necessary property
+Encapsulation – Make component/Interface more simplicity by hiding inner complex detail from the external.
+Inheritance – Parent and child relationship extend.
+Polymorphism – Depending on condition it will change the roll/logic
+ 
+  
+
