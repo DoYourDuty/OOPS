@@ -8,7 +8,7 @@ Maintainability – RES all 3 combined
 Abstraction – Show only necessary property
 Encapsulation – Make component/Interface more simplicity by hiding inner complex detail from the external.
 Inheritance – Parent and child relationship extend.
-Polymorphism – (Poly Moph - Many Change) Depending on condition it will change the roll/logic
+Polymorphism – (Poly Moph - Many Change) Depending on condition it will change the Action/Logic
  
   
 
